@@ -1,0 +1,23 @@
+.. english-thinking documentation master file, created by
+   sphinx-quickstart on Tue Jun  30 12:54:20 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to english-thinking
+========================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   2022/index
+   about
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

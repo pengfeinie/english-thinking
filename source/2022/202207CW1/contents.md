@@ -33,9 +33,17 @@ tracking reading：[https://www.youtube.com/watch?v=ySzV7I_Sn6w](https://www.you
  <iframe id="ytplayer" type="text/html" width="700" height="360"
   src="https://www.youtube.com/embed/ySzV7I_Sn6w?autoplay=0"
   frameborder="0"></iframe>
+## 2. Presentation
 
+**Controversial topic  - Can new energy vehicles replace combustion vehicles ?**
 
-## Reference：
+- [ ] The power of new energy vehicles is weak.
+- [ ] The new energy vehicles have short battery life and can't run far ?
+- [ ] Lack of charging stations and long charging time.
+- [ ] Automobile fuel is a limited resource
+- [ ]  Environmental issues
+
+## 3. Reference：
 
 1. [https://www.languagereactor.com/video/en/pump_en_1/WFheqIc98qo](https://www.languagereactor.com/video/en/pump_en_1/WFheqIc98qo)
 1. [https://www.youtube.com/watch?v=arj7oStGLkU](https://www.youtube.com/watch?v=arj7oStGLkU)

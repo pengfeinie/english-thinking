@@ -22,7 +22,11 @@ Intensive listerning：[https://www.languagereactor.com/video/en/pump_en_1/_aAma
 
 
 
+
+
 ## 2. Presentation
+
+[New Energy Vehicles](https://pengfeinie.github.io/files/newenergyvehicles.pdf)
 
 **Controversial topic  - Can new energy vehicles replace combustion vehicles ?**
 

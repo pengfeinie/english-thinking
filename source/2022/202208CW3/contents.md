@@ -1,4 +1,4 @@
-# 202208CW2
+# 202208CW3
 
 ## 1. Objective Settings
 
@@ -10,12 +10,9 @@
 | 泛听     | 看中英字幕即可。                                             |
 | 跟读     | 从精听素材中选择或者自选素材。                               |
 
-### 1.2 Material
+### 1.2 Presentation
 
-[TheMagicWashingMachine](https://pengfeinie.github.io/files/TheMagicWashingMachine.pdf)
+[autonomous-driving-20220817.pptx](https://pengfeinie.github.io/files/autonomous-driving-20220817.pptx)
 
- <iframe id="ytplayer" type="text/html" width="700" height="360"
-  src="https://www.youtube.com/embed/BZoKfap4g4w?autoplay=0"
-  frameborder="0"></iframe>
 
 

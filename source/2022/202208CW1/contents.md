@@ -15,7 +15,7 @@
 
  <iframe id="ytplayer" type="text/html" width="700" height="360"
   src="https://embed.ted.com/talks/lang/en/hans_rosling_the_magic_washing_machine"
-  frameborder="0"></iframe>
+  frameborder="0" allowfullscreen></iframe>
 
 
 

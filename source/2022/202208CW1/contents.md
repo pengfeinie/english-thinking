@@ -14,7 +14,13 @@
 [TheMagicWashingMachine](https://pengfeinie.github.io/files/TheMagicWashingMachine.pdf)
 
  <iframe id="ytplayer" type="text/html" width="700" height="360"
-  src="https://www.youtube.com/embed/BZoKfap4g4w?autoplay=0"
+  src="https://embed.ted.com/talks/lang/en/hans_rosling_the_magic_washing_machine"
   frameborder="0"></iframe>
 
 
+
+## Reference
+
+1. [https://www.youtube.com/watch?v=6sqnptxlCcw](https://www.youtube.com/watch?v=6sqnptxlCcw)
+2. [https://www.ted.com/talks/hans_rosling_the_magic_washing_machine?subtitle=en](https://www.ted.com/talks/hans_rosling_the_magic_washing_machine?subtitle=en)
+3. [https://www.youtube.com/embed/BZoKfap4g4w?autoplay=0](https://www.youtube.com/embed/BZoKfap4g4w?autoplay=0)

@@ -1,4 +1,4 @@
-# 202208CW1
+# 202209CW1
 ## 1. Objective Settings
 
 ### 1.1 Required
@@ -13,12 +13,9 @@
 
 [WhyOurScreensMakeUsLessHappy_1](https://pengfeinie.github.io/files/WhyOurScreensMakeUsLessHappy_1.pdf)
 
- <iframe id="ytplayer" type="text/html" width="854" height="480"
+ <iframe id="ytplayer" type="text/html" width="700" height="360"
   src="https://embed.ted.com/talks/lang/en/adam_alter_why_our_screens_make_us_less_happy"
   frameborder="0" allowfullscreen></iframe>
-
-
-
 
 ## Reference
 
